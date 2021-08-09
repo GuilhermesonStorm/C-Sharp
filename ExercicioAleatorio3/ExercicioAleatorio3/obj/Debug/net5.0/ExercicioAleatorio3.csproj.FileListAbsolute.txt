@@ -1,0 +1,16 @@
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\bin\Debug\net5.0\ExercicioAleatorio3.exe
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\bin\Debug\net5.0\ExercicioAleatorio3.deps.json
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\bin\Debug\net5.0\ExercicioAleatorio3.runtimeconfig.json
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\bin\Debug\net5.0\ExercicioAleatorio3.runtimeconfig.dev.json
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\bin\Debug\net5.0\ExercicioAleatorio3.dll
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\bin\Debug\net5.0\ref\ExercicioAleatorio3.dll
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\bin\Debug\net5.0\ExercicioAleatorio3.pdb
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\obj\Debug\net5.0\ExercicioAleatorio3.csproj.AssemblyReference.cache
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\obj\Debug\net5.0\ExercicioAleatorio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\obj\Debug\net5.0\ExercicioAleatorio3.AssemblyInfoInputs.cache
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\obj\Debug\net5.0\ExercicioAleatorio3.AssemblyInfo.cs
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\obj\Debug\net5.0\ExercicioAleatorio3.csproj.CoreCompileInputs.cache
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\obj\Debug\net5.0\ExercicioAleatorio3.dll
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\obj\Debug\net5.0\ref\ExercicioAleatorio3.dll
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\obj\Debug\net5.0\ExercicioAleatorio3.pdb
+D:\www\C#\ExercicioAleatorio3\ExercicioAleatorio3\obj\Debug\net5.0\ExercicioAleatorio3.genruntimeconfig.cache
