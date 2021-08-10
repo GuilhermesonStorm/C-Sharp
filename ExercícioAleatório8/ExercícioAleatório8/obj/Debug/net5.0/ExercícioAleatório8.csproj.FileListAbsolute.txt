@@ -1,0 +1,16 @@
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\bin\Debug\net5.0\ExercícioAleatório8.exe
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\bin\Debug\net5.0\ExercícioAleatório8.deps.json
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\bin\Debug\net5.0\ExercícioAleatório8.runtimeconfig.json
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\bin\Debug\net5.0\ExercícioAleatório8.runtimeconfig.dev.json
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\bin\Debug\net5.0\ExercícioAleatório8.dll
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\bin\Debug\net5.0\ref\ExercícioAleatório8.dll
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\bin\Debug\net5.0\ExercícioAleatório8.pdb
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\obj\Debug\net5.0\ExercícioAleatório8.csproj.AssemblyReference.cache
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\obj\Debug\net5.0\ExercícioAleatório8.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\obj\Debug\net5.0\ExercícioAleatório8.AssemblyInfoInputs.cache
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\obj\Debug\net5.0\ExercícioAleatório8.AssemblyInfo.cs
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\obj\Debug\net5.0\ExercícioAleatório8.csproj.CoreCompileInputs.cache
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\obj\Debug\net5.0\ExercícioAleatório8.dll
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\obj\Debug\net5.0\ref\ExercícioAleatório8.dll
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\obj\Debug\net5.0\ExercícioAleatório8.pdb
+D:\www\C#\ExercícioAleatório8\ExercícioAleatório8\obj\Debug\net5.0\ExercícioAleatório8.genruntimeconfig.cache
