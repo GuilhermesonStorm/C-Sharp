@@ -1,0 +1,15 @@
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\bin\Debug\net5.0\ExercícioAleatório7.exe
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\bin\Debug\net5.0\ExercícioAleatório7.deps.json
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\bin\Debug\net5.0\ExercícioAleatório7.runtimeconfig.json
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\bin\Debug\net5.0\ExercícioAleatório7.runtimeconfig.dev.json
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\bin\Debug\net5.0\ExercícioAleatório7.dll
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\bin\Debug\net5.0\ref\ExercícioAleatório7.dll
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\bin\Debug\net5.0\ExercícioAleatório7.pdb
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\obj\Debug\net5.0\ExercícioAleatório7.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\obj\Debug\net5.0\ExercícioAleatório7.AssemblyInfoInputs.cache
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\obj\Debug\net5.0\ExercícioAleatório7.AssemblyInfo.cs
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\obj\Debug\net5.0\ExercícioAleatório7.csproj.CoreCompileInputs.cache
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\obj\Debug\net5.0\ExercícioAleatório7.dll
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\obj\Debug\net5.0\ref\ExercícioAleatório7.dll
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\obj\Debug\net5.0\ExercícioAleatório7.pdb
+D:\www\C#\ExercícioAleatório7\ExercícioAleatório7\obj\Debug\net5.0\ExercícioAleatório7.genruntimeconfig.cache
