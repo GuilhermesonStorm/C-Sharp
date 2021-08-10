@@ -1,0 +1,16 @@
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\bin\Debug\net5.0\ExercícioAleatório9.exe
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\bin\Debug\net5.0\ExercícioAleatório9.deps.json
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\bin\Debug\net5.0\ExercícioAleatório9.runtimeconfig.json
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\bin\Debug\net5.0\ExercícioAleatório9.runtimeconfig.dev.json
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\bin\Debug\net5.0\ExercícioAleatório9.dll
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\bin\Debug\net5.0\ref\ExercícioAleatório9.dll
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\bin\Debug\net5.0\ExercícioAleatório9.pdb
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\obj\Debug\net5.0\ExercícioAleatório9.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\obj\Debug\net5.0\ExercícioAleatório9.AssemblyInfoInputs.cache
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\obj\Debug\net5.0\ExercícioAleatório9.AssemblyInfo.cs
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\obj\Debug\net5.0\ExercícioAleatório9.csproj.CoreCompileInputs.cache
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\obj\Debug\net5.0\ExercícioAleatório9.dll
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\obj\Debug\net5.0\ref\ExercícioAleatório9.dll
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\obj\Debug\net5.0\ExercícioAleatório9.pdb
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\obj\Debug\net5.0\ExercícioAleatório9.genruntimeconfig.cache
+D:\www\C#\ExercícioAleatório9\ExercícioAleatório9\obj\Debug\net5.0\ExercícioAleatório9.csproj.AssemblyReference.cache
